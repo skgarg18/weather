@@ -1,7 +1,7 @@
 const yourWeather=document.querySelector(".tab1");
 const searchWeather=document.querySelector(".tab2")
 
-const apiKey = 'b3aa9d9496c3448c855200415230407';
+const apiKey = 'dad7b573633440e1bc0101351232409';
 
 const locationAccess = document.querySelector(".location-access");
 const searchBar = document.querySelector(".search-bar");
